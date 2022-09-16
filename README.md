@@ -38,4 +38,3 @@ A new Flutter project to edit metadata tags of audio files for simple and proper
 ## Usage
 - Edit/add the tags of audio file if they are not correct or not existing.
 - A track's file name can be changed according to a certain pattern.
-
